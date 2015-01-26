@@ -1,0 +1,24 @@
+{
+  "name": "anyorder",
+  "version": "1.0.0",
+  "description": "Call function with any order of arguments",
+  "main": "lib/anyorder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderaiser/anyorder"
+  },
+  "keywords": [
+    "arguments",
+    "function",
+    "order"
+  ],
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderaiser/anyorder/issues"
+  },
+  "homepage": "https://github.com/coderaiser/anyorder"
+}
