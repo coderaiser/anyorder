@@ -1,0 +1,22 @@
+{
+    "globals": {
+        "fetch": false
+    },
+    "env": {
+        "es6": true,
+        "node": true
+    },
+    "parserOptions": {
+        "ecmaVersion": 2015,
+        "sourceType": "module"
+    },
+    "rules": {
+        "indent": ["error", 4]
+    },
+    "extends": [
+        "eslint:recommended"
+    ],
+    "plugins": [
+        "node"
+    ]
+}
