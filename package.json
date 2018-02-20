@@ -1,6 +1,6 @@
 {
   "name": "anyorder",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "Call function with any order of arguments",
   "main": "lib/anyorder.js",
   "scripts": {
